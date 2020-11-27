@@ -1,0 +1,74 @@
+.deco{
+  background-color: teal;
+  height: 90px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+  padding: 6px;
+  font-size: 30px;
+  color: coral;
+}
+.font-italic
+{
+  color: antiquewhite;
+}
+.was-validated {
+  border:2px solid;
+  border-radius: 10px;
+  padding:20px;
+  background-color: aliceblue;
+}
+h4{
+  color: blue;
+  font-style: oblique;
+  background-color: burlywood;
+  border-radius: 20px;
+}
+.card
+{
+  padding: 20px;
+  height: 630px;
+ border:none;
+}
+h5{
+  text-align: center;
+  color: slateblue;
+}
+.card-text{
+  color: brown;
+  font-size: larger;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+ul{
+  list-style-type: square;
+  color:orangered;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: large;
+  font-style: inherit;
+}
+
+.mx-auto
+{
+  border:2px solid;
+  padding: 20px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+
+
+footer
+{
+  background-color: rgba(0, 0, 0, 0.849);
+  width: 100%;
+  color: rgba(245, 227, 220, 0.973);
+  padding-top: 15px;
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer a:hover
+{
+  color:red;
+}

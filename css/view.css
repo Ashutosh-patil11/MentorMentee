@@ -1,0 +1,79 @@
+h4
+{
+    color: navy;
+    padding:3px;
+}
+.unsname
+{
+        font-weight: bolder;
+        text-decoration: none;
+}
+.fi
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.post-descri
+{
+    padding: 20px;
+    font-weight: bolder;
+    color: rgb(27, 31, 31);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mx-auto
+{
+    background-color: lavenderblush;
+    border-radius: 50px;
+
+}
+.pb-cmnt-container {
+    font-family: Lato;
+}
+
+.pb-cmnt-textarea {
+    resize: none;
+    padding: 20px;
+    height: 130px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.comment
+{
+    border: 1px solid green;
+    padding:20px;
+    border-radius: 5px;  
+}
+.nm
+{
+    padding-left: 10px;
+}
+.nm a{
+    text-decoration: none;
+}
+.comment-description
+{
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 10px;
+    
+}
+.image
+{
+    padding-left: 10px;
+}
+
+footer
+{
+  background-color: rgba(0, 0, 0, 0.849);
+  width: 100%;
+  color: rgba(245, 227, 220, 0.973);
+  padding-top: 15px;
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer a:hover
+{
+  color:red;
+}
